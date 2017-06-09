@@ -2,8 +2,6 @@
 
 [Terraform Docs](https://www.terraform.io/docs/index.html)
 
-This is a collection of Terraform modules that I have written.
-
 Note that a lot of these are just the base resources written as modules. This was done for 
 learning purposes mostly, and before I really understood how modules (IMO should) work. A 
 module is just a collection of resources. The "AWS/ec2/instance" module is a simple example 
